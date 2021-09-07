@@ -1,6 +1,10 @@
 import './ProjectCard.css'
 
 export default function ProjectCard({ item }) {
+  const f = item.code_url && <a href={item?.code_url} className='card-link links' target='_blank' rel='noreferrer'>Frontend Code</a>
+  const b = item.api_code_url && <a href={item?.api_code_url} className='card-link links' target='_blank' rel='noreferrer'>Backend Code</a>
+
+
   return(
     <div className='container mt-2'>
       <div className='row d-flex justify-content-around task'>
@@ -22,8 +26,15 @@ export default function ProjectCard({ item }) {
               <div className='card-body'>
                 <a href={item?.live_url} className='card-link links' target='_blank' rel='noreferrer'>Live</a>
                 <span> || </span>
-                {item.code_url && <a href={item?.code_url} className='card-link links' target='_blank' rel='noreferrer'>Frontend Code</a>}              
-                {item.api_code_url && <a href={item?.api_code_url} className='card-link links' target='_blank' rel='noreferrer'>Backend Code</a>}
+                {f && b
+                ?
+                  <>
+                    {f}
+                    <span> || </span> 
+                    {b}
+                  </>           
+                : 
+                  f || b}
               </div>
             </div>
           </div>
