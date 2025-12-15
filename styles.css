@@ -308,7 +308,8 @@ button:focus {
   color: #6d7275;
   transition-duration: 100ms;
   margin: 20px 20px 50px 20px;
-  z-index: 1
+  z-index: 1;
+  text-decoration: none;
 }
 
 .a-contact:hover {

@@ -6,7 +6,7 @@
       "comment": "A fun app that generates a story and drink recipe based on user input.",
       "tech_stack": "HTML5, CSS3, JavaScript, Bootstrap, React, GitHub Pages",
       "code_url": "https://evelynanais.github.io/zeroGdrinks",
-      "color_img": "assets/zeroGDrinks.png",
+      "color_img": "assets/zeroGdrinks.png",
       "display": true
     },
     {
@@ -15,7 +15,7 @@
       "comment": "An app that displays random cat facts with colorful backgrounds.",
       "tech_stack": "HTML5, CSS3, JavaScript, Bootstrap, GitHub Pages",
       "code_url": "https://evelynanais.github.io/randomColorCatsOne",
-      "color_img": "assets/randomColorCats.png",
+      "color_img": "assets/RandomColorCats.png",
       "display": true
     },
     {
