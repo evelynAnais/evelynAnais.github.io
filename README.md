@@ -1,33 +1,30 @@
-# Evelyn Ploughman Portfolio
+# Portfolio Website
 
-Web app used to display Evelyn's projects.
+Welcome to Evelyn Ploughman's portfolio website repository. This is a static website showcasing full-stack development projects and skills.
 
-## Description
+## 🌟 Live Site
+Visit the live portfolio at: [https://evelynanais.com/](https://evelynanais.com/)
 
-Used API to display projects. Animation. 
-### Dependencies
+## 🚀 Features
+- Responsive design optimized for all devices
+- Interactive project showcases with hover effects
 
-* React
+## 🛠 Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Styling**: Bootstrap 5, Custom CSS with animations
+- **Icons**: Font Awesome
+- **Hosting**: GitHub Pages
 
-### Installing
+## 📱 Responsive Design
+The website is fully responsive and tested on:
+- Desktop (1200px+)
+- Tablet (768px - 1199px)
+- Mobile (320px - 767px)
 
-```
-npm install
-```
+## 📞 Contact
+- **Email**: evelyn.a.n.d.30@gmail.com
+- **LinkedIn**: [linkedin.com/in/evelyn-ploughman](https://www.linkedin.com/in/evelyn-ploughman/)
+- **GitHub**: [github.com/evelynAnais](https://github.com/evelynAnais)
 
-### Executing program
-
-```
-npm start
-```
-## Authors
-
-Evelyn Ploughman
-
-* [LinkedIn](https://www.linkedin.com/in/evelyn-ploughman/)
-* [Twitter](https://twitter.com/evelynAnais44)
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-*  Dan Abramov for [useInterval custom-hook](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
