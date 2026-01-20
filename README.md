@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to Evelyn Ploughman's portfolio website repository. This is a static website showcasing full-stack development projects and skills.
+Welcome to Evelyn's portfolio website repository. This is a static website showcasing full-stack development projects and skills.
 
 ## 🌟 Live Site
 Visit the live portfolio at: [https://evelynanais.com/](https://evelynanais.com/)

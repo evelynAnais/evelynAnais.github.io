@@ -106,7 +106,7 @@ async function initializeSayings() {
     console.error('Error fetching sayings:', error);
     document.getElementById('saying-text').textContent =
       'Welcome to my portfolio!';
-    document.getElementById('saying-author').textContent = 'Evelyn Ploughman';
+    document.getElementById('saying-author').textContent = 'Evelyn';
   }
 }
 
